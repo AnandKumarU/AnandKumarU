@@ -1,20 +1,23 @@
 ### Hi there 👋
 
-I am Anand Kumar, a Software Engineer from India passionate about developing production-ready applications with 3 years of professional working experience.🎯
+I’m Anand, a cybersecurity graduate with around three years of professional experience in software engineering and test automation. I’ve worked on building, testing, and securing production-ready systems, with strong exposure to automation, DevOps workflows, and secure system design.
 
-## 🌱 I'm currently learning
+My core focus is network security and system reliability. I enjoy analyzing how systems fail, how attacks are carried out, and how to design defenses that are practical, measurable, and resilient in real-world environments.
+## Current Focus
+I’m actively deepening my knowledge in cybersecurity, with a strong emphasis on
+malware analysis, vulnerability assessment, and secure system development to improve product quality and resilience.
 
-- I am currently exploring the worlds of Cybersecurity especially Malware Analysis and vulnerability assessments that can be used to improve product quality.  
+## 🥇 Professional Highlights
 
-## 🥇 Achievements
+Designed and executed detailed manual testing strategies across multiple devices, resulting in a 20% improvement in overall software stability and performance
 
--Implemented thorough manual testing strategies for the application, ensuring
-seamless user experience and functionality across various devices which gave
-<b>20% improvement in overall software stability and performance</b>
+Implemented test automation best practices, achieving a 40% reduction in test execution time and a 25% increase in test coverage
 
--test automation best practices,resulting in a  <b>40% decrease in test execution time,
-and a 25% increase in testcoverage </b>
+Three years of hands-on industry experience in software engineering and test automation
 
+Practical experience with secure system design, automation, and DevOps workflows
+
+Academic and applied work in home automation, wireless communication, and cybersecurity compliance
 ## 💼 Technical Skills
 
 <p align="center">
